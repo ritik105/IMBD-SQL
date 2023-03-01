@@ -1,3 +1,3 @@
-# IMBD-SQL
+# IMDB-SQL
 
-Imbd dataset analysis using SQL
+Imdb dataset analysis using SQL
